@@ -1,4 +1,4 @@
-import { Game } from "./modules/Game.js";
+import { Game } from "./modules/game.js";
 import { View } from "./modules/view.js";
 import { Controller } from "./modules/controller.js";
 
